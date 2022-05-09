@@ -14,6 +14,8 @@ driver.find_element_by_xpath("//*[@id='__next']/div[2]/div[2]/div/form/button[2]
 
 driver.find_element_by_xpath("//*[@id='__next']/div[4]/dl/dd[4]/div/a/img").click()
 
+#bravo
+
 
 
 
